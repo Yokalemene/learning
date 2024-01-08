@@ -1,0 +1,9 @@
+asgiref==3.7.2
+Django==5.0.1
+dnspython==2.4.2
+Faker==21.0.0
+pymongo==4.6.1
+python-dateutil==2.8.2
+six==1.16.0
+sqlparse==0.4.4
+tzdata==2023.4
